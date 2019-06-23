@@ -1,0 +1,23 @@
+{
+  "name": "iscs-lumia",
+  "version": "1.0.0",
+  "description": "Web-page for ISCS department",
+  "main": "index.js",
+  "scripts": {
+    "start":"http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/ISCS-lumia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/ISCS-lumia/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/ISCS-lumia#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
